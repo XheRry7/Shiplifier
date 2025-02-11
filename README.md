@@ -102,3 +102,6 @@ The project is configured for easy deployment on Vercel:
 1. Push your code to GitHub
 2. Import project in Vercel
 3. Deploy
+
+## Deployed URL
+Open [Shiplifier](https://shiplifier-cj2pccsnt-xherry7s-projects.vercel.app/) in your browser to view the demo of the app.
