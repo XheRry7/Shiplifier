@@ -83,12 +83,6 @@ git clone https://github.com/yourusername/interactive-grid-demo.git
 npm install
 ```
 
-3. Install shadcn/ui components:
-```bash
-npx shadcn-ui@latest init
-npx shadcn-ui@latest add button card
-```
-
 4. Run the development server:
 ```bash
 npm run dev
@@ -100,8 +94,6 @@ npm run dev
 
 - **Mobile**: < 768px (2 boxes per row)
 - **Desktop**: ≥ 768px (3 boxes per row)
-
-## 🧪 Testing
 
 ## 🚀 Deployment
 
